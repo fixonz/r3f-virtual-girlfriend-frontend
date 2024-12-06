@@ -14,11 +14,11 @@
 
 body {
   margin: 0;
-  background-color: #faaca8;
-  background-image: linear-gradient(19deg, #faaca8 0%, #ddd6f3 100%);
+  background-color: #1e293b; /* Dark Slate Gray */
+  background-image: linear-gradient(19deg, #1e293b 0%, #3b82f6 100%); /* Gray to Dark Blue */
 }
 
 body.greenScreen {
-  background-color: #00ff00;
+  background-color: #0f172a; /* Darker Navy */
   background-image: none;
 }
